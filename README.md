@@ -15,7 +15,9 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 ```
-
+#Program to solve the matrix
+#developed by: Narendran.k
+#reference number: 23013500
 A=[[1,-3],[3,1]]
 B=[0,10]
 import numpy as np
